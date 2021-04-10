@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\USER\Desktop\計組project1\Project1\Project1\main.cpp(37,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\USER\Desktop\計組project1\Project1\Project1\main.cpp(185,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Users\USER\Desktop\計組project1\Project1\Project1\main.cpp(197,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\USER\Desktop\計組project1\Project1\Project1\main.cpp(212,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\USER\Desktop\計組project1\Project1\Project1\main.cpp(335,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\USER\Desktop\計組project1\Project1\Project1\main.cpp(40): warning C4715: 'label': 不是所有控制路徑都傳回值
+  Project1.vcxproj -> C:\Users\USER\Desktop\計組project1\Project1\Debug\Project1.exe
